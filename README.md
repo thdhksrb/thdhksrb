@@ -29,4 +29,4 @@
 	<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"></a>&nbsp
 	<br>
 </p>
-<a href="https://solved.ac/thdhksrb"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdhksr"/></a>
+<a href="https://solved.ac/thdhksrb"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thdhksrb"/></a>
